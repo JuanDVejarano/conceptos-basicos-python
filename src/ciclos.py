@@ -1,6 +1,11 @@
-# ciclo for
+# ciclo for simple
 print("Ciclo for")
 for i in range(1, 11):
+    print(i)
+
+# ciclo for imprminiendo una cadena
+print("Ciclo for con cadena")
+for i in "Hola mundo":
     print(i)
 
 
